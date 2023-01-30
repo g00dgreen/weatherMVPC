@@ -2,4 +2,4 @@
 Приложение c использовниаем архитектуры MVP-C. 
 ---
  * Реализованы подгрузка данных из сети, верстка кодом
- * Использовались: URLSession, DispatchQueue, Coordinator, MVP, CollectionView, TableView
+ * Использовались: URLSession, DispatchQueue, MVP - Coordinator, CollectionView, TableView
